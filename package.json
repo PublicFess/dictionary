@@ -1,0 +1,16 @@
+{
+  "name": "dictionary",
+  "version": "0.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.10.2",
+    "circumflex-request": "*"
+  },
+  "author": "",
+  "license": "ISC"
+
+}
